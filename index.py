@@ -12,7 +12,7 @@ from nextcord import File, ButtonStyle
 from nextcord.ui import Button, View
 
 bot = commands.Bot(command_prefix="ㅂ", Intents=Intents)
-TOKEN = "OTI3MDg0MjM0MDIyMjAzNDAz.YdFEeQ.f1XOTwFYzJbTujKojvhR1wilYLw"
+TOKEN = "토큰"
 
 
 @bot.event
